@@ -1,14 +1,14 @@
 import Archetype from './Archetype';
-// import Orc from './Orc';
-// import Elf from './Elf';
-// import Dwarf from './Dwarf';
-// import Halfling from './Halfling';
+import Mage from './Mage';
+import Ranger from './Ranger';
+import Warrior from './Warrior';
+import Necromancer from './Necromancer';
 
 export default Archetype;
 
-// export {
-//   Orc,
-//   Elf,
-//   Dwarf,
-//   Halfling,
-// };
+export {
+  Mage,
+  Ranger,
+  Warrior,
+  Necromancer,
+};
