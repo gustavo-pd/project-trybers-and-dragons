@@ -50,3 +50,7 @@
   3. Rode o NPM start para executar o script:
     * `npm run start`
 </br>
+
+  4. É possível fazer diversas interações utilizando as classes e métodos do T&D, modificando o arquivo:
+    * `src/index.ts`
+</br>
