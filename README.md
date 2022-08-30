@@ -31,7 +31,7 @@
 <h2 id="development">Desenvolvimento</h2>
 
 <p>Neste projeto pude implementar diversas classes e interfaces em POO utilizando o Typescript.</p>
-<p>Nele pude criar diversos tipos de raças, monstros, players. Também realizar funções de spells, level up, entre outros</p>
+<p>Nele pude criar diversos tipos de raças, monstros, players. Também realizar funções de spells, level up, entre outros.</p>
 <p>Pude trabalhar com herança de classes, classes abstratas, constructor, atributos, métodos e interfaces.</p>
 
 
